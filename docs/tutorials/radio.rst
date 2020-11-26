@@ -8,7 +8,7 @@ choses n'existent que dans les histoires.
 
 Cependant, il y a quelque chose de beaucoup mieux que la magie : la physique !
 
-L'interaction sans fil n'est que de la physiwue : les ondes radio (une sorte de
+L'interaction sans fil n'est que de la physique : les ondes radio (une sorte de
 radiation électromagnétique, un peu comme la lumière visible) ont certaines
 propriétés (comme l'amplitude, la pulsation ou la période) modulées par un
 émetteur de façon à ce que cette information puisse être encodée et ainsi diffusée.
